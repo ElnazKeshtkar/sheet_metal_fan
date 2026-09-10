@@ -1,29 +1,26 @@
-<div dir="rtl">
+# Sheet Metal Fan Design - Industrial Application
 
-# پروژه طراحی فن صنعتی (Sheet Metal Fan)
+This project involves the design and modeling of an industrial sheet metal fan, optimized for ventilation systems.
 
-این پروژه شامل طراحی یک فن صنعتی از نوع ورق‌کاری است که با هدف تهویه هوا در محیط‌های صنعتی طراحی و مدل‌سازی شده است.
+## Design Process
+The design was carried out in **SolidWorks** in three main phases:
+1. **Part Design:** Modeling individual components including the Cone, Back Plate, and Blades.
+2. **Assembly:** Assembling parts using standard SolidWorks mates to ensure perfect alignment and structural integrity.
+3. **Manufacturing Preparation:** Generating Flat Patterns and DXF files suitable for Laser Cutting and bending operations.
 
-## فرآیند طراحی
-طراحی این فن در نرم‌افزار **SolidWorks** در سه مرحله اصلی انجام شده است:
-1. **مدل‌سازی قطعات (Part Design):** طراحی جداگانه اجزای اصلی شامل مخروط (Cone)، صفحه پشتی (Back Plate) و پره‌ها (Blades).
-2. **مونتاژ (Assembly):** اسمبل قطعات با استفاده از قیدهای استاندارد سالیدورک جهت اطمینان از هم‌راستایی.
-3. **آماده‌سازی برای ساخت:** تهیه نقشه‌های گسترده (Flat Pattern) و خروجی‌های DXF جهت برش لیزر و عملیات ورق‌کاری.
-
-## گالری تصاویر
-
-| نمای ایزومتریک | نمای بالایی |
+## Gallery
+| Isometric View | Top View |
 | :---: | :---: |
 | ![Isometric](Renders/render.JPG) | ![Top](Renders/render2.JPG) |
 
-| نمای جانبی | نمای پشتی |
+| Side View | Back View |
 | :---: | :---: |
 | ![Side](Renders/render3.JPG) | ![Back](Renders/render4.JPG) |
 
-## مشخصات فنی
-- **نرم‌افزار:** SolidWorks
-- **متریال:** ورق فولادی گالوانیزه
-- **فرآیند تولید:** برش لیزر (Laser Cutting) و خم‌کاری (Bending)
+## Technical Specifications
+- **Software:** SolidWorks
+- **Material:** Galvanized Steel Sheet
+- **Manufacturing Process:** Laser Cutting & Bending
 
-</div>
-
+---
+*Feel free to explore the CAD and DXF folders for production files.*
